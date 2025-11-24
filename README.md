@@ -35,3 +35,11 @@ A fun number-guessing game where:
 
 Useful for practicing loops, conditionals, and the `random` module.
 
+
+
+## 🧠 Learning Goals
+- Improve Python fundamentals  
+- Practice writing clean and readable code  
+- Understand input handling  
+- Strengthen logical thinking and problem-solving  
+
