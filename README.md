@@ -24,3 +24,14 @@ A basic introduction program that:
 - Demonstrates variables, strings, and simple output formatting  
 
 This serves as the starting point of my Python learning journey.
+
+
+
+### **3. number_guess.py**
+A fun number-guessing game where:
+- The computer chooses a random number  
+- The user attempts to guess it  
+- The program gives hints until the correct answer is found  
+
+Useful for practicing loops, conditionals, and the `random` module.
+
