@@ -16,3 +16,11 @@ A simple command-line calculator that performs:
 - Division  
 
 Great for practicing functions, conditionals, and input validation.
+
+
+### **2. intro_project.py**
+A basic introduction program that:
+- Prints personalized information  
+- Demonstrates variables, strings, and simple output formatting  
+
+This serves as the starting point of my Python learning journey.
