@@ -6,7 +6,7 @@ try:
 			line = line.strip()
 			if line:
 				task.append(line)
-	except FileNotFoundError:
+except FileNotFoundError:
 		#File does not exist yet
 
 		pass
